@@ -1,7 +1,7 @@
 # webfejlesztesfinal
 Radácsi Huba
 
-https://radacsihuba.github.io/webfejlesztes/
+https://radacsihuba.github.io/webfejlesztesfinal/
 
 Trianoni kis ismeretterjesztő, történelmi kisokos. Területveszteség kalkulátor.
 
